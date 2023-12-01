@@ -13,14 +13,14 @@ The Notebook can directly be used to create the plots. Therefore either the whol
 - __numpy__ 1.24.2 
 
 Using pip the versions can be installed using the __requirements.txt__. Therefore use
-'''
+```
 pip install -r requirements.txt
-'''
+```
 
 With anaconda the __environment.yml__ can be used with the following code in an anaconda shell
-'''
+```
 conda env create -f environment.yml
-'''
+```
 
 ## Contributing
 Instructions about how to contribute, style guides, etc.
