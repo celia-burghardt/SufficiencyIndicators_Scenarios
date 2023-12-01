@@ -1,0 +1,9 @@
+name: sufficiency
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - matplotlib==3.7.1
+  - numpy==1.24.2
+  - pandas==2.0.0
+prefix: C:\Users\yanni\anaconda3\envs\sufficiency
