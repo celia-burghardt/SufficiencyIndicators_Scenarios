@@ -21,6 +21,9 @@ With anaconda the __environment.yml__ can be used with the following code in an 
 conda env create -f environment.yml
 ```
 
+When using anaconda and Visual Studio Code, you might need to install openpyxl via pip in order to be able to export the Datatables as exel files using pandas. 
+
+
 ## Contributing
 Instructions about how to contribute, style guides, etc.
 
