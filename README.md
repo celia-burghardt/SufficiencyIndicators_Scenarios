@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Scenarios Analysis
 
 ## Description
@@ -27,6 +26,3 @@ Instructions about how to contribute, style guides, etc.
 
 ## License
 Information about the license.
-=======
-# Sufficiency Indicators Scenarios
->>>>>>> 68a1ab1d0ff8fe968b14a02f474140ff8ff96cb1
