@@ -25,7 +25,25 @@ When using anaconda and Visual Studio Code, you might need to install openpyxl v
 
 
 ## Contributing
-Instructions about how to contribute, style guides, etc.
+Frauke Wiese [1], 
+Carina Zell-Ziegler [2, 3], 
+Celia Burghardt [4], 
+Yannick Kloos [4], 
+Mirko Schäfer [4],
+
+[1] Department of Sustainable Energy, Europa-Universität Flensburg, Auf dem Campus 1, Flensburg 24941, Germany
+[2] Öko-Institut, Borkumstraße 2, 13189 Berlin, Germany
+[3] Technical University of Berlin, Straße des 17. Juni 135, 10623 Berlin, Germany
+[4] INATECH, University of Freiburg, Emmy-Noether-Str. 2, 79110 Freiburg, Germany
 
 ## License
-Information about the license.
+Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
+
+This work is licensed under a
+[Creative Commons Attribution 4.0 International License][cc-by].
+
+[![CC BY 4.0][cc-by-image]][cc-by]
+
+[cc-by]: http://creativecommons.org/licenses/by/4.0/
+[cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
+[cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
